@@ -1,0 +1,2 @@
+Regresión Logistica con dataset MNIST:
+https://colab.research.google.com/drive/1vWtxDnXLN5CamPrWKgV7guD1iUeAQbaD
